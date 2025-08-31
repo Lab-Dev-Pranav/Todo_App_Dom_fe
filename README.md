@@ -1,4 +1,4 @@
-# TO-DO APP
+# TO-DO APP [FrontEnd]
 
 A simple To-Do App created using HTML, CSS, and JavaScript with DOM manipulation.
 
